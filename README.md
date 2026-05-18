@@ -19,7 +19,7 @@ Built an end-to-end data engineering pipeline using Microsoft Fabric to process 
 
 ## Architecture
 
-![Architecture](architecture/architecture.png)
+[Architecture](architecture/architecture.png)
 
 ---
 
